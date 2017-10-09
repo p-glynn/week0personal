@@ -1,0 +1,42 @@
+body {
+  background-image: url('images/flag.jpg');
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  text-shadow: 1px 1px black;
+  font-family: cursive;
+  color: white;
+}
+
+#quotes {
+  font-family: serif;
+  font-size: 24px;
+  display: block;
+  text-align: center;
+  margin: 10px 0px;
+  color: white;
+  text-shadow: 1px 1px red;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  /*background-color: red;*/
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 900px;
+  max-height: 700px;
+  border: 5px solid white;
+  margin-top: 5px;
+}
+
+#footer {
+  font-family: cursive;
+  font-size: 18px;
+  text-align: center;
+  display: block;
+  color: white;
+  text-shadow: 1px 1px black;
+}
