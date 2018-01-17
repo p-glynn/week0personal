@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Libre+Barcode+39+Text');
+
 body {
   background-color: #cccdce;
 }
@@ -84,4 +86,20 @@ img {
 
 #kermit {
   border-radius: 0px;
+}
+/* media queries go at the bottom */
+/* from biggest to small */
+
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: red;
+
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: green;
+    display: none;
+  }
 }
