@@ -9,8 +9,8 @@ h1 {
   color: purple;
   font-family: 'Libre Barcode 39 Text', cursive;
   background-color: #cccdce;
-  padding-bottom: 20px;
-  font-size: 48px;
+  padding: 30px;
+  font-size: 56px;
 }
 
 .navbar {
